@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.hadoop.util.GenericOptionsParser"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Reducer.Context"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.IntWritable"/>
+<fullyQualifiedTypeName name="java.lang.StrictMath"/>
+<fullyQualifiedTypeName name="java.awt.color.ICC_ColorSpace"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.Text"/>
+<fullyQualifiedTypeName name="java.lang.Long"/>
+<fullyQualifiedTypeName name="org.apache.log4j.TTCCLayout"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.yarn.webapp.hamlet.Hamlet.P"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="org.apache.commons.math3.complex.Complex"/>
+</qualifiedTypeNameHistroy>

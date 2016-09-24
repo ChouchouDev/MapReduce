@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Sep 11 01:30:20 CEST 2016
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=mapReduce_fat.jar
+manifest.mergeall=true
+manifest.mainclass=WordCount
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

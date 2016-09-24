@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;core-site.xml, hdfs-site.xml, log4j.properties&apos; to &apos;s&apos;" description="Move 3 resources to &apos;s&apos;" destination="/s" element1="/mapReduce2/core-site.xml" element2="/mapReduce2/hdfs-site.xml" element3="/mapReduce2/log4j.properties" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="3" stamp="1473355115496" updateReferences="true"/>
+</session>
