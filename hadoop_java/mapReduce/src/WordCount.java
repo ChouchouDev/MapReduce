@@ -1,5 +1,10 @@
 
 /**
+运行设置
+hdfs://localhost:9000/user/Miao1/forTest hdfs://localhost:9000/user/Miao1/outWordCount
+*/
+
+/**
  * hello world
  * hello kitty
  * 
