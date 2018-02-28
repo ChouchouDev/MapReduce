@@ -1,0 +1,6 @@
+Artificial Intelligence	{Iot=3, Semantic Web=2, Machine Learning=1, Deep Learning=1}
+Data Mining	{Iot=2}
+Deep Learning	{Machine Learning=1, Artificial Intelligence=1}
+Iot	{Artificial Intelligence=3, Data Mining=2, Semantic Web=1}
+Machine Learning	{Deep Learning=1, Artificial Intelligence=1}
+Semantic Web	{Artificial Intelligence=2, Iot=1}
